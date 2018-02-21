@@ -1,2 +1,2 @@
 import './common.css'
-import './js'
+import './js/constants'
